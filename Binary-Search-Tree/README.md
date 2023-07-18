@@ -13,7 +13,7 @@ Adım 10: 2 (1'in sağına yerleştirilir)
 
 Sonuç olarak, Binary Search Tree aşamaları şu şekildedir:
 
-   			  7
+              7
              / \
            5     8
           / \     \
